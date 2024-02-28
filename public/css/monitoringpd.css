@@ -1,0 +1,149 @@
+/*Severity Level Section*/
+.containera {
+    /*box semu navigator link*/
+    top: 0;
+    left: 0;
+    right: 0;
+    height: auto;
+    border-width: 0.01px;
+    border-style: solid;
+    border-color: rgba(111, 111, 111, 0.01) transparent;
+    border-radius: 0px;
+    padding: 1%;
+    /*background-image: url(pict/white2.jpg);*/
+    background-repeat: no-repeat;
+    background-size: auto;
+    text-align: center;
+}
+
+.box1,
+.box2,
+.box3 {
+    height: 150px;
+    width: 15%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+}
+
+.box2,
+.box3 {
+    margin-left: 2%;
+}
+
+/* indicator */
+.container1 {
+    /*box semu navigator link*/
+    top: 0;
+    left: 0;
+    right: 0;
+    height: auto;
+    border-width: 0.01px;
+    border-style: solid;
+    border-color: rgba(111, 111, 111, 0.01) transparent;
+    border-radius: 0px;
+    padding: 1%;
+    background-image: linear-gradient(to bottom, #bdc3c7, #ecf0f1);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.boxa,
+.boxb,
+.boxc,
+.boxd {
+    height: 70px;
+    width: 30%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    background-image: linear-gradient(
+        to bottom right,
+        #16a085,
+        #1abc9c,
+        #f1c40f
+    );
+    display: inline-block;
+}
+.boxa {
+    margin-left: 0%;
+}
+.boxb,
+.boxc,
+.boxd {
+    margin-left: 2%;
+}
+.container1,
+.boxa,
+.freq {
+    color: black;
+    font-weight: bold;
+    font-size: 120%;
+    text-align: center;
+    line-height: 50%;
+}
+.container1,
+.boxb,
+.dBA {
+    color: black;
+    font-weight: bold;
+    font-size: 120%;
+    text-align: center;
+    line-height: 50%;
+}
+.container1,
+.boxc,
+.countVolt {
+    color: black;
+    font-weight: bold;
+    font-size: 120%;
+    text-align: center;
+    line-height: 50%;
+}
+
+.container1,
+.boxd,
+.Vrms {
+    color: black;
+    font-weight: bold;
+    font-size: 120%;
+    text-align: center;
+    line-height: 50%;
+}
+
+/* Durasi */
+.container2 {
+    /*box semu navigator link*/
+    top: 0;
+    left: 0;
+    right: 0;
+    height: auto;
+    border-width: 0.01px;
+    border-style: solid;
+    border-color: rgba(111, 111, 111, 0.01) transparent;
+    border-radius: 0px;
+    padding: 1%;
+    background-image: linear-gradient(to bottom, #bdc3c7, #ecf0f1);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+/* .boxe {
+	margin-left: 20%;
+} */
+
+.container p {
+    text-align: center;
+    font-size: 25px;
+}
+
+.container2,
+.boxe,
+.durasi {
+    color: black;
+    font-weight: bold;
+    font-size: 100%;
+    text-align: center;
+    line-height: 10%;
+}
